@@ -1,0 +1,23 @@
+Summary for MightyMinerV2-2.6.2.jar
+Decompiled with CFR 0.152
+
+
+com.jelly.mightyminerv2.deps.it.unimi.dsi.fastutil.io.FastBufferedInputStream
+----------------------------
+
+readLine(byte[] int int java.util.EnumSet<com.jelly.mightyminerv2.deps.it.unimi.dsi.fastutil.io.FastBufferedInputStream$LineTerminator> )
+  Unable to fully structure code
+
+
+com.jelly.mightyminerv2.pathfinder.calculate.path.PathExecutor
+----------------------------
+
+onTick(net.minecraftforge.fml.common.gameevent.TickEvent$ClientTickEvent )
+  Unable to fully structure code
+
+
+org.java_websocket.server.WebSocketServer
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [6[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
